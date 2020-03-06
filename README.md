@@ -10,7 +10,7 @@ Vídeo completo del webinar [en este enlace](https://www.youtube.com/watch?v=JNT
 
 ## Ejecución 
 
-`npm start` ejecuta el proyecto en modo de desarrollo.
+`npm start` sobre el directorio del proyecto lo ejecuta en modo de desarrollo.
 
 ## Challenge
 - Al renderizar en el navegador la vista con la tabla de alimentos, la consola muestra un error en relación a la `key` que cada elemento resultante de una iteración debe incluir. Investígalo y resuelve el error.
