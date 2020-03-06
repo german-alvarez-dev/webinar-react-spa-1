@@ -1,4 +1,4 @@
-# Webinar React: from 0 to SPA
+# Webinar React: from 0 to SPA (parte 1)
 
 Materiales de la primera partde del webinar sobre  **React: from 0 to SPA** impartido desde Ironhack Madrid | 45 min - mar. 2020
 
