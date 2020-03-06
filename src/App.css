@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+h1, h2, h3, h4, h5, small{
+    font-weight: 100;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 1.6em;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+a {
+    color: inherit
+}
+
+.container > header {
+    margin-bottom: 40px;
+}
+
+.navbar {
+    margin-bottom: 60px;
+}
+
+.table td img {
+    height: 60px;
+    display: block;
+    margin: 0 auto;
+}
+
+.table td {
+    padding: 0px;
+}
+
+.table p {
+    line-height: 60px;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+.table .btn {
+    float: right;
+    margin: 15px 10px;
+}
+
+.food-detail-img {
+    width: 50%;
+}
+
+.nav-tabs {
+    margin-top: 40px;
+}
+
+.tab-content {
+    padding: 20px;
+    border: 1px solid #dee2e6;
+    border-top: 0;
+    margin-bottom: 40px;
+}
