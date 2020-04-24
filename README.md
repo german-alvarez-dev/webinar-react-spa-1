@@ -4,8 +4,8 @@ Materiales de la primera partde del webinar sobre  **React: from 0 to SPA** impa
 
 ## Grabaciones
 
-- Primera parte del webinar [en este enlace](https://www.youtube.com/watch?v=JNTix3tbfLY).
-- Segunda parte del webinar [en este enlace](https://github.com/german-alvarez-dev/webinar-react-spa-2).
+- Primera parte del webinar [en este enlace](https://youtu.be/JNTix3tbfLY?t=852).
+- Segunda parte del webinar (códigos + vídeo) [en este este repositorio](https://github.com/german-alvarez-dev/webinar-react-spa-2).
 
 ## Instalación
 
